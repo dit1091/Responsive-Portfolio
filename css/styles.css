@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+}
+
+
+body {
+  background: url('https://image.freepik.com/free-vector/vector-polka-background-with-small-dots_1017-13972.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  font-size:25px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.lead{
+  line-height: 25px;  
+  text-indent: 30px;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+
+.footer {
+  font-size: 15px;
+  flex-shrink: 0;
+  height: 0px;
+  margin-top: 5px;
+}
+
+/* icon image size for  index.html */
+.iconsize{
+  width: 50px;
+}
+
+
+/* image size for  portfolio.html */
+
+.imgsize {
+  width: 200px;
+  margin: 10px auto;
+}
+
+/* outline image caption */
+
+.outline {
+  color: #fff;
+  text-shadow: #000 0px 0px 5px;
+  -webkit-font-smoothing: antialiased;
+}
