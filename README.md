@@ -8,5 +8,3 @@ Previews:
 ![Image of About Me](https://github.com/dit1091/Responsive-Portfolio/blob/master/About%20Me%20Screenshot.jpeg)
 
 ![Image of Contact](https://github.com/dit1091/Responsive-Portfolio/blob/master/Contact%20Screenshot.jpeg)
-
-![Image of Portfolio](https://github.com/dit1091/Responsive-Portfolio/blob/master/Portfolio%20Screenshot.jpeg)
