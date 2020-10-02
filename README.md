@@ -5,8 +5,8 @@ The task of this assignment is to create a functional site that showcases one’
 Live site: https://dit1091.github.io/Responsive-Portfolio/index.html
 
 Previews:
-![Image of About Me](About Me Screenshot.jpeg) About Me Screenshot.jpeg
+![Image of About Me](https://github.com/dit1091/Responsive-Portfolio/blob/master/About%20Me%20Screenshot.jpeg)
 
-![Image of Contact](Contact Screenshot.jpeg)
+![Image of Contact](https://github.com/dit1091/Responsive-Portfolio/blob/master/Contact%20Screenshot.jpeg)
 
-![Image of Portfolio](Portfolio Screenshot.jpeg)
+![Image of Portfolio](https://github.com/dit1091/Responsive-Portfolio/blob/master/Portfolio%20Screenshot.jpeg)
